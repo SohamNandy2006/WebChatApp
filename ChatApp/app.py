@@ -1,3 +1,6 @@
+# sir if you are seeing this.... go to http://35.222.198.124/ to see the webapp in function.
+
+
 from flask import *
 from flask_socketio import *
 import logging
